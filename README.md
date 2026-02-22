@@ -1,3 +1,4 @@
+
 # Virtual File System (VFS)
 
 Virtual File System is a Linux-like file system implemented in C.
@@ -22,8 +23,6 @@ This project simulates the internal working of a file system using:
 - Manual Commands
 
 ---
-
-
 ---
 
 ## Data Structures
